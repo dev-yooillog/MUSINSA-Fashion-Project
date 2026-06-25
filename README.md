@@ -43,7 +43,9 @@
 
 ### 시각화
 
-![세그먼트별 커뮤니티 활동 분석]
+세그먼트별 커뮤니티 활동 분석
+<img width="2386" height="744" alt="ltv_distribution" src="https://github.com/user-attachments/assets/9a4d16a4-772c-45a8-b7be-20d513701d38" />
+
 
 ---
 
