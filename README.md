@@ -4,12 +4,11 @@
 
 패션 커머스 플랫폼에서 커뮤니티 활동(리뷰, 좋아요)이 유저 참여도 및 구매 전환에 미치는 영향을 분석, 이탈 징후 유저 대상 리텐션 트리거 시나리오를 제안.
 
-무신사 랭킹 상위 300개 상품을 직접 크롤링하여 실데이터 기반 분석을 수행했다.
+무신사 랭킹 상위 300개 상품을 직접 크롤링하여 실데이터 기반 분석을 수행.
 
 ---
 
 ## 핵심 가설
-
 커뮤니티 활동(리뷰, 좋아요)이 활발한 상품일수록 구매 전환율이 높고 유저 참여도가 높을 것이다.
 
 ---
@@ -143,12 +142,7 @@ fashion-commerce-churn-prevention/
 │   └── data_schema.md
 ├── 03_분석코드/
 │   ├── python/
-│   │   ├── 01_musinsa_crawler.py
-│   │   ├── 02_preprocess.py
-│   │   └── 03_community_ltv_analysis.py
 │   └── sql/
-│       ├── 01_user_segment_classification.sql
-│       └── 02_churn_risk_score.sql
 ├── 04_시각화/
 │   ├── ltv_distribution.png
 │   └── visualization_guide.md
